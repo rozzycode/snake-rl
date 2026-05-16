@@ -22,6 +22,7 @@
 \usepackage{tocloft}
 \usepackage{csquotes}
 \usepackage{pgfplots}
+\usepackage{svg}
 \usepackage[backend=biber,sorting=none]{biblatex}
 \addbibresource{references.bib}
 
@@ -39,7 +40,7 @@
   \renewcommand{\chaptertitlename}{ГЛАВА}%
   \renewcommand{\figurename}{Рисунок}%
   \renewcommand{\tablename}{Таблица}%
-  \renewcommand{\contentsname}{\centering \large ОГЛАВЛЕНИЕ}%
+  \renewcommand{\contentsname}{\makebox[\textwidth][c]{ОГЛАВЛЕНИЕ}}%
 }
 \captionsetup[figure]{labelsep=space,justification=centering}
 \captionsetup[table]{labelsep=space,justification=centering}
@@ -57,14 +58,10 @@
 
 \renewcommand{\cftchapfont}{\bfseries}
 \renewcommand{\cftchappagefont}{\bfseries}
+\renewcommand{\cfttoctitlefont}{\large\bfseries}
 \setlength{\cftbeforechapskip}{0.3em}
-
-\makeatletter
-\renewcommand{\tableofcontents}{%
-  \chapter*{\large ОГЛАВЛЕНИЕ}%
-  \@starttoc{toc}%
-}
-\makeatother
+\setlength{\cftbeforetoctitleskip}{0pt}
+\setlength{\cftaftertoctitleskip}{0.5\baselineskip}
 
 \begin{document}
 \selectlanguage{russian}
@@ -121,5 +118,6 @@
 
 \nocite{sutton2020rl,matthes2023python}
 \printbibliography[heading=bibintoc,title={СПИСОК ИСПОЛЬЗОВАННОЙ ЛИТЕРАТУРЫ}]
+\input{sections/appendix}
 
 \end{document}
