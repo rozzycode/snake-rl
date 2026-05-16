@@ -1,0 +1,125 @@
+% !TeX program = pdflatex
+\documentclass[14pt,a4paper]{extreport}
+
+\usepackage[a4paper,left=30mm,right=10mm,top=20mm,bottom=20mm]{geometry}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[main=russian,english]{babel}
+
+\usepackage{setspace}
+\renewcommand{\baselinestretch}{1.2}
+\usepackage{indentfirst}
+\setlength{\parindent}{1.25cm}
+
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{caption}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{tocloft}
+\usepackage{csquotes}
+\usepackage{pgfplots}
+\usepackage[backend=biber,sorting=none]{biblatex}
+\addbibresource{references.bib}
+
+\pgfplotsset{compat=1.18}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue,
+    citecolor=black
+}
+
+\addto\captionsrussian{%
+  \renewcommand{\chaptername}{ГЛАВА}%
+  \renewcommand{\chaptertitlename}{ГЛАВА}%
+  \renewcommand{\figurename}{Рисунок}%
+  \renewcommand{\tablename}{Таблица}%
+  \renewcommand{\contentsname}{\centering \large ОГЛАВЛЕНИЕ}%
+}
+\captionsetup[figure]{labelsep=space,justification=centering}
+\captionsetup[table]{labelsep=space,justification=centering}
+
+\titleformat{\chapter}[display]
+  {\centering\Large\bfseries}
+  {\chaptertitlename\ \thechapter}
+  {10pt}
+  {\Large}
+\titlespacing*{\chapter}{5pt}{-20pt}{30pt}
+
+\titleformat{\section}[block]
+  {\large\bfseries}
+  {\thesection\ }{0pt}{}
+
+\renewcommand{\cftchapfont}{\bfseries}
+\renewcommand{\cftchappagefont}{\bfseries}
+\setlength{\cftbeforechapskip}{0.3em}
+
+\makeatletter
+\renewcommand{\tableofcontents}{%
+  \chapter*{\large ОГЛАВЛЕНИЕ}%
+  \@starttoc{toc}%
+}
+\makeatother
+
+\begin{document}
+\selectlanguage{russian}
+
+\setcounter{page}{1}
+\setstretch{1.0}
+\thispagestyle{empty}
+\newgeometry{left=0mm,top=20mm,right=0mm,bottom=20mm}
+\begin{center}
+\bfseries
+\vspace{4cm}
+{
+\setstretch{0.9}
+\mbox{МИНИСТЕРСТВО~ОБРАЗОВАНИЯ~РЕСПУБЛИКИ~БЕЛАРУСЬ} \\~\\
+\mbox{БЕЛОРУССКИЙ~ГОСУДАРСТВЕННЫЙ~УНИВЕРСИТЕТ} \\~\\
+\mbox{МЕХАНИКО-МАТЕМАТИЧЕСКИЙ~ФАКУЛЬТЕТ} \\~\\
+\mbox{Кафедра~дифференциальных~уравнений~и~системного~анализа} \\~\\
+}
+\vspace{4cm}
+\mbox{ОБУЧЕНИЕ С ПОДКРЕПЛЕНИЕМ ДЛЯ ИГРЫ <<ЗМЕЙКА>>}\\
+\vspace{1cm}
+\rmfamily Курсовая работа
+\vspace{3cm}
+\end{center}
+
+\begin{tabular}{ll}
+\hspace{10.5cm}
+&Полегина Александра Дмитриевича\\~\\
+&студента 3-го курса\\
+&специальности 6-05-0533-08\\
+&<<Компьютерная математика\\
+&и системный анализ>>\\~\\
+&Научный руководитель:\\
+&кандидат физ.-мат. наук,\\
+&доцент С.~Г.~Красовский
+\end{tabular}
+\vspace{4cm}
+\begin{center}
+    Минск, 2026
+\end{center}
+\clearpage
+\restoregeometry
+\setstretch{1.2}
+
+\tableofcontents
+\clearpage
+
+\input{sections/intro}
+\input{sections/chapter1}
+\input{sections/chapter2}
+\input{sections/chapter3}
+\input{sections/chapter4}
+\input{sections/conclusion}
+
+\nocite{sutton2020rl,matthes2023python}
+\printbibliography[heading=bibintoc,title={СПИСОК ИСПОЛЬЗОВАННОЙ ЛИТЕРАТУРЫ}]
+
+\end{document}

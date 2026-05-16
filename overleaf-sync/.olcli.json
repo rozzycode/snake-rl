@@ -1,0 +1,26 @@
+{
+  "projectId": "6a008a1b2f3edbd318a5adfd",
+  "projectName": "Курсовая работа 3 курс",
+  "lastPull": "2026-05-16T08:23:36.160Z",
+  "remoteManifest": [
+    "main.tex",
+    "Makefile",
+    "README-latex.md",
+    "references.bib",
+    "latexmkrc",
+    "sections/chapter1.tex",
+    "sections/chapter2.tex",
+    "sections/chapter3.tex",
+    "sections/conclusion.tex",
+    "sections/intro.tex",
+    "sections/chapter4.tex",
+    "auth.pdf",
+    "images/learning_chart.jpg",
+    "inspect.pdf",
+    "images/architecture.jpg",
+    "images/agent_mode.jpg",
+    "images/game_over_modal.jpg",
+    "images/manual_game.jpg"
+  ],
+  "lastPush": "2026-05-16T08:42:19.923Z"
+}
