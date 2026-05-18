@@ -1,5 +1,3 @@
-"""Command-line entry point for Snake RL."""
-
 from __future__ import annotations
 
 import argparse

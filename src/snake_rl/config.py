@@ -1,5 +1,3 @@
-"""Project configuration values."""
-
 BOARD_WIDTH = 20
 BOARD_HEIGHT = 20
 CELL_SIZE = 24

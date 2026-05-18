@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.16)  17 MAY 2026 15:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.16)  17 MAY 2026 12:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -166,8 +166,8 @@ erarithmetics.code.tex)
 (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
 (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count309
-))) (/usr/local/texlive/2026/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+))) (/usr/local/texlive/2026/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 (/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
 (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -1082,19 +1082,6 @@ Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
 \minrowclearance=\skip69
 \rownum=\count374
 )
-(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
-\calc@Acount=\count375
-\calc@Bcount=\count376
-\calc@Adimen=\dimen336
-\calc@Bdimen=\dimen337
-\calc@Askip=\skip70
-\calc@Bskip=\skip71
-LaTeX Info: Redefining \setlength on input line 86.
-LaTeX Info: Redefining \addtolength on input line 87.
-\calc@Ccount=\count377
-\calc@Cskip=\skip72
-)
 (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryshapes.geometric.code.tex
 File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
@@ -1107,70 +1094,67 @@ File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 s/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
-(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerthemeMadrid.sty
+(/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty)
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty
 )
-(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
-meta.code.tex
-File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfarrowinset=\dimen338
-\pgfarrowlength=\dimen339
-\pgfarrowwidth=\dimen340
-\pgfarrowlinewidth=\dimen341
-)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.st
+y)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.
+sty))
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 83.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 25.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 1.95827pt
-(hyperref)                removed on input line 83.
+(hyperref)                \kern 1.81372pt
+(hyperref)                removed on input line 25.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 83.
+(hyperref)                removing `\\' on input line 25.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 83.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 25.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 1.95827pt
-(hyperref)                removed on input line 83.
+(hyperref)                \kern 1.81372pt
+(hyperref)                removed on input line 25.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 83.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 25.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 1.95827pt
-(hyperref)                removed on input line 83.
+(hyperref)                \kern 1.81372pt
+(hyperref)                removed on input line 25.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 83.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 25.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 1.95827pt
-(hyperref)                removed on input line 83.
+(hyperref)                \kern 1.81372pt
+(hyperref)                removed on input line 25.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 83.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 25.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 1.95827pt
-(hyperref)                removed on input line 83.
+(hyperref)                \kern 1.81372pt
+(hyperref)                removed on input line 25.
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count378
+\l__color_backend_stack_int=\count375
 )
 (./presentation.aux
 Package babel Info: 'russian' activates 'russian' shorthands.
@@ -1178,32 +1162,32 @@ Package babel Info: 'russian' activates 'russian' shorthands.
 )
 \openout1 = `presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 105.
-LaTeX Font Info:    ... okay on input line 105.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 105.
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
-05.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 29.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 2
+9.
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    ... okay on input line 29.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1213,23 +1197,23 @@ LaTeX Font Info:    ... okay on input line 105.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 398.3386pt, 28.45274pt)
+* h-part:(L,W,R)=(10.88002pt, 433.48404pt, 10.88002pt)
 * v-part:(T,H,B)=(0.0pt, 256.0748pt, 0.0pt)
 * \paperwidth=455.24408pt
 * \paperheight=256.0748pt
-* \textwidth=398.3386pt
+* \textwidth=433.48404pt
 * \textheight=227.62207pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-61.38997pt
+* \evensidemargin=-61.38997pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=14.22636pt
 * \marginparwidth=4.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1241,16 +1225,16 @@ LaTeX Font Info:    ... okay on input line 105.
 
 (/usr/local/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count379
-\scratchdimen=\dimen342
+\scratchcounter=\count376
+\scratchdimen=\dimen336
 \scratchbox=\box85
-\nofMPsegments=\count380
-\nofMParguments=\count381
+\nofMPsegments=\count377
+\nofMParguments=\count378
 \everyMPshowfont=\toks53
-\MPscratchCnt=\count382
-\MPscratchDim=\dimen343
-\MPnumerator=\count383
-\makeMPintoPDFobject=\count384
+\MPscratchCnt=\count379
+\MPscratchDim=\dimen337
+\MPnumerator=\count380
+\makeMPintoPDFobject=\count381
 \everyMPtoPDFconversion=\toks54
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1261,70 +1245,69 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 105.
+Package hyperref Info: Link coloring OFF on input line 29.
 
 (./presentation.out) (./presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 105.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 29.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 105.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 29.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T2A/cmr/m/n on input line 105.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 105.
+(Font)                  OT1/cmss/m/n --> T2A/cmr/m/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T2A/cmss/b/n on input line 105.
+(Font)                  OT1/cmr/bx/n --> T2A/cmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T2A/cmss/b/n on input line 105.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 105.
+(Font)                  OT1/cmr/bx/n --> T2A/cmss/b/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T2A/cmss/m/n on input line 105.
+(Font)                  OT1/cmss/m/n --> T2A/cmss/m/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T2A/cmss/m/n on input line 105.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 105.
+(Font)                  OT1/cmss/bx/n --> T2A/cmss/m/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T2A/cmss/m/it on input line 105.
+(Font)                  OT1/cmr/m/it --> T2A/cmss/m/it on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T2A/cmss/m/it on input line 105.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 105.
+(Font)                  OT1/cmr/bx/it --> T2A/cmss/m/it on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T2A/cmtt/m/n on input line 105.
+(Font)                  OT1/cmtt/m/n --> T2A/cmtt/m/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T2A/cmtt/m/n on input line 105.
+(Font)                  OT1/cmtt/m/n --> T2A/cmtt/m/n on input line 29.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T2A/cmss/m/n --> T2A/cmss/b/n on input line 105.
+(Font)                  T2A/cmss/m/n --> T2A/cmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T2A/cmss/m/it --> T2A/cmss/b/it on input line 105.
+(Font)                  T2A/cmss/m/it --> T2A/cmss/b/it on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T2A/cmr/b/n on input line 105.
+(Font)                  OT1/cmss/b/n --> T2A/cmr/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T2A/cmss/b/n --> T2A/cmss/b/n on input line 105.
+(Font)                  T2A/cmss/b/n --> T2A/cmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T2A/cmss/m/n --> T2A/cmss/b/n on input line 105.
+(Font)                  T2A/cmss/m/n --> T2A/cmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T2A/cmss/m/it --> T2A/cmss/b/it on input line 105.
+(Font)                  T2A/cmss/m/it --> T2A/cmss/b/it on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T2A/cmtt/m/n --> T2A/cmtt/b/n on input line 105.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 105.
+(Font)                  T2A/cmtt/m/n --> T2A/cmtt/b/n on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 29.
 LaTeX Font Info:    Encoding `T2A' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 10
-5.
+(Font)              `pureletters' in the math version `normal' on input line 29
+.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T2A/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-05.
+(Font)                  T2A/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 2
+9.
 LaTeX Font Info:    Encoding `T2A' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 105.
-
+(Font)              `pureletters' in the math version `bold' on input line 29.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T2A/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 1
-05.
+(Font)                  T2A/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 2
+9.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 105.
+ut line 29.
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -1350,132 +1333,188 @@ Dictionary: translator-numbers-dictionary, Language: English
 tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \th on input line 105.
+LaTeX Info: Redefining \th on input line 29.
  (./presentation.nav)
-Underfull \hbox (badness 1052) in paragraph at lines 130--130
-[]\T2A/cmss/bx/n/24.88 Обучение с под-креп-ле-
+Overfull \hbox (269.6449pt too wide) in paragraph at lines 29--29
+ [][]  \T2A/cmss/m/n/6 ([])  
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 130
-.
-(/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 130
-.
 
-(/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 130.
+Overfull \hbox (269.6449pt too wide) in paragraph at lines 33--33
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
 
-(/usr/local/texlive/2026/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-) [1
+[1
 
 {/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
+Overfull \hbox (269.6449pt too wide) in paragraph at lines 49--49
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (271.2103pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
 [2
 
-{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+]
+Overfull \hbox (269.6449pt too wide) in paragraph at lines 66--66
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
 
-Overfull \hbox (1.38992pt too wide) in paragraph at lines 184--184
-[]|\T2A/cmss/bx/n/12 Интерпретируемость\T2A/cmss/m/n/12 , 
+(/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+)
+Overfull \hbox (271.2103pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
  []
 
 [3
 
 ]
-Overfull \hbox (3.10744pt too wide) in paragraph at lines 220--220
- [][] 
+Overfull \hbox (269.6449pt too wide) in paragraph at lines 87--87
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (271.2103pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
  []
 
 [4
 
 ]
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <12> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 253.
-
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 253.
-
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 253.
+Overfull \hbox (269.6449pt too wide) in paragraph at lines 114--114
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
 
 
-
-LaTeX Font Warning: Font shape `T2A/cmss/b/n' undefined
-(Font)              using `T2A/cmss/m/n' instead on input line 253.
+Overfull \hbox (271.2103pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
 
 [5
 
 ]
-<../overleaf-sync/images/architecture.jpg, id=52, 1405.25pt x 903.375pt>
-File: ../overleaf-sync/images/architecture.jpg Graphic file (type jpg)
-<use ../overleaf-sync/images/architecture.jpg>
-Package pdftex.def Info: ../overleaf-sync/images/architecture.jpg  used on inpu
-t line 263.
-(pdftex.def)             Requested size: 326.64055pt x 209.97737pt.
+Overfull \hbox (269.6449pt too wide) in paragraph at lines 119--119
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
 
-Overfull \vbox (35.41713pt too high) detected at line 263
+<images/architecture.jpg, id=75, 1405.25pt x 903.375pt>
+File: images/architecture.jpg Graphic file (type jpg)
+<use images/architecture.jpg>
+Package pdftex.def Info: images/architecture.jpg  used on input line 119.
+(pdftex.def)             Requested size: 368.46407pt x 236.8707pt.
+
+Overfull \vbox (25.17859pt too high) detected at line 119
+ []
+
+
+Overfull \hbox (271.2103pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
  []
 
 [6
 
- <../overleaf-sync/images/architecture.jpg>]
+ <./images/architecture.jpg>]
+Overfull \hbox (269.6449pt too wide) in paragraph at lines 141--141
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
 
-Class beamer Warning: Frame text is shrunk by a factor of 11.98578 percent inst
-ead of 5 percent on input line 297.
+
+Overfull \hbox (271.2103pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
 
 [7
 
 ]
-<../overleaf-sync/images/manual_game.jpg, id=70, 337.26pt x 377.41pt>
-File: ../overleaf-sync/images/manual_game.jpg Graphic file (type jpg)
-<use ../overleaf-sync/images/manual_game.jpg>
-Package pdftex.def Info: ../overleaf-sync/images/manual_game.jpg  used on input
- line 325.
-(pdftex.def)             Requested size: 112.33292pt x 125.7032pt.
-<../overleaf-sync/images/agent_mode.jpg, id=71, 337.26pt x 377.41pt>
-File: ../overleaf-sync/images/agent_mode.jpg Graphic file (type jpg)
-<use ../overleaf-sync/images/agent_mode.jpg>
-Package pdftex.def Info: ../overleaf-sync/images/agent_mode.jpg  used on input 
-line 325.
-(pdftex.def)             Requested size: 112.33292pt x 125.7032pt.
-<../overleaf-sync/images/game_over_modal.jpg, id=72, 337.26pt x 377.41pt>
-File: ../overleaf-sync/images/game_over_modal.jpg Graphic file (type jpg)
-<use ../overleaf-sync/images/game_over_modal.jpg>
-Package pdftex.def Info: ../overleaf-sync/images/game_over_modal.jpg  used on i
-nput line 325.
-(pdftex.def)             Requested size: 112.33292pt x 125.7032pt.
- [8
+Overfull \hbox (269.6449pt too wide) in paragraph at lines 161--161
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
 
- <../overleaf-sync/images/manual_game.jpg> <../overleaf-sync/images/agent_mode.
-jpg> <../overleaf-sync/images/game_over_modal.jpg>] [9
+<images/manual_game.jpg, id=97, 337.26pt x 377.41pt>
+File: images/manual_game.jpg Graphic file (type jpg)
+<use images/manual_game.jpg>
+Package pdftex.def Info: images/manual_game.jpg  used on input line 161.
+(pdftex.def)             Requested size: 130.04652pt x 145.53076pt.
+<images/agent_mode.jpg, id=98, 337.26pt x 377.41pt>
+File: images/agent_mode.jpg Graphic file (type jpg)
+<use images/agent_mode.jpg>
+Package pdftex.def Info: images/agent_mode.jpg  used on input line 161.
+(pdftex.def)             Requested size: 130.04652pt x 145.53076pt.
+<images/game_over_modal.jpg, id=99, 337.26pt x 377.41pt>
+File: images/game_over_modal.jpg Graphic file (type jpg)
+<use images/game_over_modal.jpg>
+Package pdftex.def Info: images/game_over_modal.jpg  used on input line 161.
+(pdftex.def)             Requested size: 130.04652pt x 145.53076pt.
+
+Overfull \hbox (271.2103pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+[8
+
+ <./images/manual_game.jpg> <./images/agent_mode.jpg> <./images/game_over_modal
+.jpg>]
+Overfull \hbox (269.6449pt too wide) in paragraph at lines 174--174
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (271.2103pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+[9
 
 ]
-<../overleaf-sync/images/learning_chart.jpg, id=84, 1405.25pt x 903.375pt>
-File: ../overleaf-sync/images/learning_chart.jpg Graphic file (type jpg)
-<use ../overleaf-sync/images/learning_chart.jpg>
-Package pdftex.def Info: ../overleaf-sync/images/learning_chart.jpg  used on in
-put line 366.
-(pdftex.def)             Requested size: 310.70361pt x 199.73558pt.
+Overfull \hbox (269.6449pt too wide) in paragraph at lines 179--179
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
 
-Overfull \vbox (25.17534pt too high) detected at line 366
+<images/learning_chart.jpg, id=114, 1405.25pt x 903.375pt>
+File: images/learning_chart.jpg Graphic file (type jpg)
+<use images/learning_chart.jpg>
+Package pdftex.def Info: images/learning_chart.jpg  used on input line 179.
+(pdftex.def)             Requested size: 368.46407pt x 236.8707pt.
+
+Overfull \vbox (25.17859pt too high) detected at line 179
+ []
+
+
+Overfull \hbox (271.2103pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
  []
 
 [10
 
- <../overleaf-sync/images/learning_chart.jpg>]
-Overfull \hbox (1.89551pt too wide) in paragraph at lines 403--403
- [][] 
+ <./images/learning_chart.jpg>]
+Overfull \hbox (269.6449pt too wide) in paragraph at lines 197--197
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (271.2103pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
  []
 
 [11
 
-] [12
+]
+Overfull \hbox (269.6449pt too wide) in paragraph at lines 207--207
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (271.2103pt too wide) has occurred while \output is active
+ [][]  \T2A/cmss/m/n/6 ([])  
+ []
+
+[12
 
 ]
 \tf@nav=\write6
@@ -1492,45 +1531,38 @@ Overfull \hbox (1.89551pt too wide) in paragraph at lines 403--403
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28120 strings out of 467525
- 554530 string characters out of 5418982
- 952931 words of memory out of 5000000
- 56427 multiletter control sequences out of 15000+600000
- 660109 words of font info for 121 fonts, out of 8000000 for 9000
+ 27799 strings out of 467525
+ 550065 string characters out of 5418982
+ 936723 words of memory out of 5000000
+ 56119 multiletter control sequences out of 15000+600000
+ 648649 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,19n,123p,387b,1582s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pf
-b></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+ 128i,15n,123p,387b,729s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 ></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><
-/usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></
-usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></u
-sr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></
-usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></
-usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></
-usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
-sr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></usr
-/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/l
-ocal/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/loc
-al/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local
-/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/t
-exlive/2026/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb></usr/local/tex
-live/2026/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texli
-ve/2026/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb></usr/local/texlive
-/2026/texmf-dist/fonts/type1/public/cm-super/sfsx2488.pfb>
-Output written on presentation.pdf (12 pages, 511730 bytes).
+/usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></
+usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></u
+sr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></u
+sr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></u
+sr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
+r/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/
+local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></usr/lo
+cal/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/loca
+l/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/
+texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/te
+xlive/2026/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texl
+ive/2026/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texliv
+e/2026/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/
+2026/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb>
+Output written on presentation.pdf (12 pages, 473146 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
+ 215 PDF objects out of 1000 (max. 8388607)
+ 134 compressed objects within 2 object streams
  25 named destinations out of 1000 (max. 500000)
- 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 110 words of extra memory for PDF output out of 10000 (max. 10000000)
 

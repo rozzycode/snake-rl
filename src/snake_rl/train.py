@@ -1,5 +1,3 @@
-"""Training pipeline for the Q-learning Snake agent."""
-
 from __future__ import annotations
 
 from pathlib import Path

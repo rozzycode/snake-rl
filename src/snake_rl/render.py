@@ -1,5 +1,3 @@
-"""pygame rendering and runtime loops."""
-
 from __future__ import annotations
 
 from pathlib import Path

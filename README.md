@@ -1,20 +1,20 @@
-# Snake RL
+### Snake RL
 
 Coursework project: Snake game in Python with a Q-learning agent.
 
-## Setup
+###### Setup
 
 ```bash
 uv sync --dev
 ```
 
-## Commands
+###### Commands
 
 - `uv run python -m snake_rl.main play`
 - `uv run python -m snake_rl.main train`
 - `uv run python -m snake_rl.main watch`
 
-## Example training run
+###### Example training run
 
 ```bash
 uv run python -m snake_rl.main train --episodes 300

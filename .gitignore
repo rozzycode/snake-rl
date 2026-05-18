@@ -1,31 +1,31 @@
-# macOS
+### macOS
 .DS_Store
 
-# Python
+### Python
 __pycache__/
 *.py[cod]
 .pytest_cache/
 .venv/
 
-# Local experiment artifacts
+### Local experiment artifacts
 artifacts/q_table.pkl
 artifacts/doc_assets/
 artifacts/coursework/ql_preview/
 
-# Generated exports and temp outputs
+### Generated exports and temp outputs
 outputs/
 *.pptx
 
-# Local planning notes
+### Local planning notes
 docs/plans/
 
-# Optional duplicate local LaTeX workspace
+### Optional duplicate local LaTeX workspace
 latex-coursework/
 
-# Overleaf local helper files
+### Overleaf local helper files
 overleaf-sync/auth.pdf
 overleaf-sync/inspect.pdf
 
-# Editors
+### Editors
 .idea/
 .vscode/
